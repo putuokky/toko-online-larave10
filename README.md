@@ -1,4 +1,4 @@
-### Premium Partners
+## Premium Partners
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
