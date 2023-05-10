@@ -4,7 +4,7 @@ namespace App\Traits;
 
 use Illuminate\Support\Str;
 
-trait UuidTraits
+trait UuidTrait
 {
   protected static function boot()
   {
