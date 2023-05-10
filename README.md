@@ -1,7 +1,7 @@
 ## Package Yang Digunakan
 
 - **[Laravel 10](https://laravel.com/docs/10.x/releases)**
-- Laravel UI
+- Laravel UI by Bootstrap
 
 ## Referensi
 
